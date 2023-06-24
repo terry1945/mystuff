@@ -1,0 +1,3 @@
+PS1="%F{red}┌[%f%F{cyan}%m%f%F{red}]─[%f%F{yellow}%D{%H:%M-%d/%m}%f%F{red}]─[%f%F{magenta}%d%f%F{red}]%f"$n"%F{red}└╼%f%F{green}$USER%f%F{yellow}$%f"
+
+This is a pretty cool prompt, don't remember where it came from.

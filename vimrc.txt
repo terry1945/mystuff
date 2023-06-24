@@ -1,0 +1,21 @@
+" Basic
+set number
+"set autoindent
+"set tabstop=4 shiftwidth=4
+set smarttab
+syntax on
+set mouse=a
+set ruler
+
+" VIM Appearance
+
+" put colorscheme files in ~/.vim/colors/
+colorscheme murphy	"also slate, molokai, badwolf, solarized
+
+" Tabs
+set tabstop=4
+set expandtab	"convert tab to spaces
+set shiftwidth=4
+set autoindent
+set smartindent
+set backspace=indent,eol,start
