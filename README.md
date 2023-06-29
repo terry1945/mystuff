@@ -1,2 +1,2 @@
 # mystuff
-some configs and hady whatnot
+some configs and handy whatnot
