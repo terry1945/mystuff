@@ -1,0 +1,11 @@
+vim.opt.shortmess="I"	--remove splash screen
+vim.opt.number=true	--line numbers
+vim.opt.wrap=false	--don't wrap text
+vim.opt.complete="."	--auto complete from current buffer
+vim.opt.autoindent=true	--auto indent
+vim.opt.smartindent=true --smartindent
+vim.opt.tabstop=4
+vim.opt.shiftwidth=4
+vim.opt.expandtab=true	--use spaces instead of tabs
+vim.opt.hlsearch=true   --highlight search
+vim.opt.incsearch=true  --incremental search
