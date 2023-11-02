@@ -19,3 +19,6 @@ set shiftwidth=4
 set autoindent
 set smartindent
 set backspace=indent,eol,start
+
+" Try remap jj to esc
+inoremap jj <esc>
