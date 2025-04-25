@@ -1,0 +1,5 @@
+/* ANSI Color Codes:
+* 31 red    33 yellow	35 magenta
+* 32 green  34 blue		36 cyan
+*/
+	printf("\e[31mPress enter to see the results\e[0m... ");
